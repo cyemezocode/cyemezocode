@@ -28,3 +28,6 @@ Javascript, HTML, CSS,PHP,Flutter,NodeJS,SQL,MongoDB
 
 **Mobile:** Flutter
 
+
+
+![Logo](https://cyemezocode.com/assets/images/footer.jpg)
