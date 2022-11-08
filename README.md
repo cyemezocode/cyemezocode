@@ -1,12 +1,9 @@
 
-# CyemezoCode
+![Logo](https://cyemezocode.com/assets/images/cover.jpg)
+
 
 CyemezoCode is software company which is located in Kigali Rwanda.
 Our aim is to develop mobile application and website for our clients with an extra ordinary price discout.
-
-
-
-![Logo](https://cyemezocode.com/assets/images/cover.jpg)
 
 
 
