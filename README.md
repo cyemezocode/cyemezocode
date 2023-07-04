@@ -14,14 +14,14 @@ Our aim is to develop mobile application and website for our clients with an ext
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS,PHP,Flutter,NodeJS,SQL,MongoDB
+Javascript, HTML, CSS, PHP, Flutter, NodeJS, SQL, MongoDB
 
 
 ## Tech Stack
 
-**Client:** Bootstrap, CSS, Javascript, HTML, JQuery
+**Client:** Bootstrap, CSS, Javascript, HTML, JQuery, Vue, Svelte
 
-**Server:** Node, Express, PHP, Django
+**Server:** Node, Express, PHP, Django, Laravel
 
 **Mobile:** Flutter
 
