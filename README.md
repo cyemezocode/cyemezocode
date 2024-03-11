@@ -2,8 +2,8 @@
 ![Logo](https://cyemezocode.com/assets/images/cover.jpg)
 
 
-CyemezoCode is software company which is located in Kigali Rwanda.
-Our aim is to develop mobile application and website for our clients with an extra ordinary price discout.
+CyemezoCode is a software company which is located in Kigali Rwanda.
+We aim to develop mobile applications and websites for our clients at an extraordinary discount.
 
 
 
